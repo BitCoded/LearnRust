@@ -10,7 +10,7 @@ In this course, we'll cover pretty much everything you need to know about progra
 
 ---
 
-> Note\: The structure of this course is based on the book **The Rust Programming Language**, but all content was written by me.
+> Note\: The structure of this course is based on the book **The Rust Programming Language**, but the content is different.
 
 ---
 
