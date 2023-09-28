@@ -1,3 +1,4 @@
+# Let's Learn Rust!
 
 Rust pretty much revolutionised the way we write code - it runs incredibly fast, and is memory safe.
 
@@ -43,3 +44,27 @@ Let's get started.
 [[34 - Program Arguments]]  
 [[35 - Reading Files]]  
 [[36 - Editing Files]]  
+[[37 - Module Structure]]  
+[[38 - Standard Error]]  
+[[39 - Closures]]  
+[[40 - Iterators]]  
+[[41 - Creating Libraries]]  
+[[42 - Publishing Libraries]]  
+[[43 - Installing Libraries]]  
+[[44 - Building Our Library]]  
+[[45 - Threads]]  
+[[46 - Thread Data]]  
+[[47 - Shared-State Concurrency]]  
+[[48 - Extended Concurrency]]  
+[[49 - Advanced Traits]]  
+[[50 - Basic OOP]]  
+[[51 - Patterns]]  
+[[52 - Refutability]]  
+[[53 - Pattern Syntax]]  
+[[54 - Unsafe Code]]  
+[[55 - Advanced Types]]  
+[[56 - Advanced Functions]]  
+[[57 - Macros]]  
+[[58 - Project: Guessing Game]]  
+[[59 - Project: Calculator]]  
+[[60 - Project: Text Adventure]]  

@@ -2,5 +2,14 @@
   "table-editor-obsidian",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-outliner",
+  "obsidian-mkdocs-publisher",
+  "templater-obsidian",
+  "better-word-count",
+  "obsidian-copy-block-link",
+  "execute-code",
+  "obsidian-code-block-enhancer",
+  "obsidian-advanced-slides"
 ]
