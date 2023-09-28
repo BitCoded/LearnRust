@@ -43388,12 +43388,12 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     var _a2;
     this.showNotices();
     try {
-      if (this.useSimpleGit) {
-        this.gitManager = new SimpleGit(this);
-        await this.gitManager.setGitInstance();
-      } else {
+      //if (this.useSimpleGit) {
+        // this.gitManager = new SimpleGit(this);
+        // await this.gitManager.setGitInstance();
+      // } else {
         this.gitManager = new IsomorphicGit(this);
-      }
+      // }
       const result = await this.gitManager.checkRequirements();
       switch (result) {
         case "missing-git":
